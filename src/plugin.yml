@@ -1,0 +1,7 @@
+name: QuickCraft
+main: tk.bluecmdr.QuickCraft.QuickCraft
+api-version: 1.16
+version: 1.0
+commands:
+  addrecipe:
+
